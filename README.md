@@ -1,4 +1,14 @@
-![Coding Girl](https://raw.githubusercontent.com/ChaoticAnisha/ChaoticAnisha/1a5476c42954b57a0ef7b33360e7534d614792e6/computer.gif)
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gifs/hi.gif" width="30px"/> I'm Anisha
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Open+Source+Enthusiast;Web+Development+Ninja;Always+Learning+New+Things" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChaoticAnisha/ChaoticAnisha/1a5476c42954b57a0ef7b33360e7534d614792e6/computer.gif" width="600"/>
+</div>
 
 ## Find me elsewhere
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chaoswannabe.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aVHKKd3b) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sah.sneha.0117/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaoswannabee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisha-sah-a533b8282/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/chaoswannabee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Special_Avocado6698/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishashah0117@gmail.com) 
