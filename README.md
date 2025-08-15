@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Open+Source+Enthusiast;Web+Development+Ninja;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=BSc+(Hons)+Computing+Student;Computing+Enthusiast;Web+Development+Ninja;Always+Learning+New+Things" />
 </div>
 
 <div align="center">
@@ -25,4 +25,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=ChaoticAnisha&theme=bear&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChaoticAnisha&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChaoticAnisha&icon=0&color=7)](https://visitcount.itsvg.in)   I am  a BSc Honours in Computing student, but I have written like Software Engineer right over there. So can you just change it related to my field or course? Because I don't wanna write Software Engineer. So just replace that and keep things as it is and just don't change anything else, alright? Like nothing, not even a single word, just change Software Engineer and Open Source Enthusiast to something else related to my field. That's it and give me code at it is all right like the complete code
